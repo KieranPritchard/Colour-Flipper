@@ -14,3 +14,4 @@ When programming this project there was only one problem with the code, this was
 
 ## Licenses
 
+license can be found in "doc" folder
