@@ -19,16 +19,20 @@ When programming this project there was only one problem with the code, this was
 
 ## How to Use the Project
 
-1. **Open the HTML File In Browser**
+1. **Clone The Repository**
+
+    * This saves the repository to your local device, you can do this with git.
+
+2. **Open the HTML File In Browser**
 
     * Open the `index.html` in your web browser, to launch the Colour Flipper.
 
-2. **Interact With The Button**
+3. **Interact With The Button**
 
    * Click the "Click Me" button to change the background colour randomly.
    * The current background color's name or code will be displayed beside the pages background at the top.
 
-3. **How To Understand The Display**
+4. **How To Understand The Display**
 
     * The colour name is shown inside a styled box at the center of the page.
 
