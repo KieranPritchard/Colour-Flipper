@@ -15,8 +15,8 @@
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/KieranPritchard/Colour-Flipper">
 
 </div>
-## Project Description
 
+## Project Description
 ### Objective:
 To practice using Javascript in relation with HTML and CSS. To also practice manipulating the DOM, Document Object Model.
 ### Features:
@@ -29,7 +29,7 @@ To practice using Javascript in relation with HTML and CSS. To also practice man
 ### Challenges Faced:
 There was only one problem with the code being it wasn't updating when the button was clicked, this was because the javascript was applying the `background-color` style with a typo. the typo made it like this: `background-colour` however, this was due to the U.K spelling of it which is where I live.  On the other hand, I had a problem with styling it. But that was down more to perfectionism.
 ### Outcome:
-successfully created a project that practises what was laid out in the objective, also managed to practise using javascript to build a project.
+Successfully created a project that practises what was laid out in the objective, also managed to practise using javascript to build a project.
 ## How to Use the Project
 1. **Clone The Repository**
 	* This saves the repository to your local device, you can do this with git.
